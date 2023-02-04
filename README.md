@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DadaLV&layout=compact&theme=transparent)](https://github.com/DadaLV/github-readme-stats)
 
+![DadaLV's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadaLV&show_icons=true&theme=transparent)
+
 <!--
 **DadaLV/DadaLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
