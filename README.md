@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="ruby on rails logo" width="50" height="50" />
+
 <!--
 **DadaLV/DadaLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
